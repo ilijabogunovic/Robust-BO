@@ -13,7 +13,7 @@
 - [ ] Zero-sum games and robust mixed strategies 
 - [ ] Risk-averse BO and kernel bandits
 
-## Papers (in reverse chronological order)
+## Papers
 
 ### 2021
 - [ ] [High-Dimensional Experimental Design and Kernel Bandits. \
