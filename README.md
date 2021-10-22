@@ -1,4 +1,4 @@
-# Robust Bayesian Optimization / Kernel Bandits (Robust-BO)
+# Robust-BO
 > A non-comprehensive list of robust Bayesian optimization / GP (kernel) bandit papers.
 
 ## Representative scope
