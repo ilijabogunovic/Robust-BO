@@ -1,5 +1,5 @@
 # Robust-BO
-> A non-comprehensive list of robust Bayesian optimization / GP (kernel) bandit papers and material. 
+> A non-comprehensive list of robust Bayesian optimization / GP (kernel) bandit papers and material. \
 > TODO: should add a tag for theory papers
 ## Representative scope
 
