@@ -1,6 +1,6 @@
 # Robust-BO
 > A non-comprehensive list of robust Bayesian optimization / GP (kernel) bandit papers and material. 
-
+> TODO: should add a tag for theory papers
 ## Representative scope
 
 - [ ] Robust optimization / MiniMax
@@ -16,14 +16,17 @@
 ## Papers
 
 ### 2021
+- [ ] [Achieving Robustness to Aleatoric Uncertainty with Heteroscedastic Bayesian Optimisation. \
+  Ryan-Rhys Griffiths, Alexander A Aldrick, Miguel Garcia-Ortegon, Vidhi Lalchand and Alpha A Lee (Mach. Learn.: Sci. Technol. 2021)](https://iopscience.iop.org/article/10.1088/2632-2153/ac298c)
+	
 - [ ] [High-Dimensional Experimental Design and Kernel Bandits. \
  Romain Camilleri, Julian Katz-Samuels, Kevin Jamieson (ICML 2021)](https://arxiv.org/abs/2105.05806)				
 
 - [ ] [Misspecified Gaussian Process Bandit Optimization. \
- Ilija Bogunovic, Andreas Krause (NeurIPS 2021, working link soon)]()
+ Ilija Bogunovic, Andreas Krause (NeurIPS 2021)](https://arxiv.org/abs/2111.05008)
 
 - [ ] [Risk-averse Heteroscedastic Bayesian Optimization. \
- Anastasia Makarova, Ilnura Usmanova, Ilija Bogunovic, Andreas Krause (NeurIPS 2021, working link soon)]()		
+ Anastasia Makarova, Ilnura Usmanova, Ilija Bogunovic, Andreas Krause (NeurIPS 2021)](https://arxiv.org/pdf/2111.03637.pdf)		
 
 - [ ] [Bayesian Optimization for Min Max Optimization. \
  Dorina Weichert, Alexander Kister (ArXiv 2021)](https://arxiv.org/pdf/2107.13772.pdf)
